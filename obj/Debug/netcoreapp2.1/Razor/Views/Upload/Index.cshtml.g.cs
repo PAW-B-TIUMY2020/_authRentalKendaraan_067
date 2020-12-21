@@ -60,7 +60,7 @@ using RentalKendaraan.Models;
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(125, 194, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b44b6eefd0524e69954b52c2aadf8f9b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58541aa863474078851adf25feccf163", async() => {
                 BeginContext(223, 89, true);
                 WriteLiteral("\r\n    <input type=\"file\" name=\"file\" />\r\n    <button type=\"submit\">Upload File</button>\r\n");
                 EndContext();
@@ -89,7 +89,7 @@ using RentalKendaraan.Models;
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(323, 204, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcc8b5e13491486bbc259089896333d6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8c7b682846d47008fd18c75dfeb97a1", async() => {
                 BeginContext(422, 98, true);
                 WriteLiteral("\r\n    <input type=\"file\" name=\"file\" multiple />\r\n    <button type=\"submit\">Upload File</button>\r\n");
                 EndContext();
@@ -118,7 +118,7 @@ using RentalKendaraan.Models;
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(531, 218, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0daaacbc7104f8a9cf0087b405a62d7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "acdfdd4c9e934c34b6c87771e64c6477", async() => {
                 BeginContext(637, 105, true);
                 WriteLiteral("\r\n    <input type=\"file\" name=\"FileToUpload\" />\r\n    <button type=\"submit\">Upload File (model)</button>\r\n");
                 EndContext();

@@ -7,6 +7,7 @@ D:\Visual Studio 2017\Projects\RentalKendaraan\bin\Debug\netcoreapp2.1\RentalKen
 D:\Visual Studio 2017\Projects\RentalKendaraan\bin\Debug\netcoreapp2.1\RentalKendaraan.pdb
 D:\Visual Studio 2017\Projects\RentalKendaraan\bin\Debug\netcoreapp2.1\RentalKendaraan.Views.dll
 D:\Visual Studio 2017\Projects\RentalKendaraan\bin\Debug\netcoreapp2.1\RentalKendaraan.Views.pdb
+D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\RentalKendaraan.csprojAssemblyReference.cache
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\RentalKendaraan.AssemblyInfoInputs.cache
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\RentalKendaraan.AssemblyInfo.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\RentalKendaraan.csproj.CoreCompileInputs.cache
@@ -99,6 +100,7 @@ D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Vie
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout_Dashio.cshtml.g.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Visual Studio 2017\Projects\RentalKendaraan\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Files.cshtml.g.cs

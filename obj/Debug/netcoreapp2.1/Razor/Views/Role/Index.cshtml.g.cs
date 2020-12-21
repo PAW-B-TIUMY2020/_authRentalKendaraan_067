@@ -63,7 +63,7 @@ using RentalKendaraan.Models;
             WriteLiteral("\r\n<h1>List of Roles</h1>\r\n");
             EndContext();
             BeginContext(256, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d292de9796fd47969c69b9eb0f56d9a0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7847d6a57c88446590fd68d7f87906d0", async() => {
                 BeginContext(279, 6, true);
                 WriteLiteral("Create");
                 EndContext();
